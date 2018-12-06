@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'Buda-Pesth seems a wonderful place.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'Not only Robin himself but all the band were outlaws and dwelled apart from other men.'      
 };
 
 function status(statusText) {
